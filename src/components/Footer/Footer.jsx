@@ -75,7 +75,7 @@ export default function Footer() {
               <div className="sm:flex sm:items-center sm:justify-between">
                   <span className="text-sm  text-orange-800 sm:text-center">
                       © 2024 
-                      <a href="https://instagram.com/asadd2723" className="hover:underline">
+                      <a href="https://instagram.com/asadd2723" target='_blank' className="hover:underline">
                           Asad ullah
                       </a>
                       . All Rights Reserved.
