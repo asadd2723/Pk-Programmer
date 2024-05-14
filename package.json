@@ -1,9 +1,9 @@
 {
   "name": "pk-programmer",
-  "private": true,
+  "homepage": "https://asadd2723.github.io/Pk-Programmer",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://asadd2723.github.io/Pk-Programmer/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -32,7 +32,4 @@
     "tailwindcss": "^3.4.3",
     "vite": "^5.2.0"
   }
-  
 }
-
-
